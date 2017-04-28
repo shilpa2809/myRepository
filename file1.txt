@@ -1,7 +1,11 @@
 hello gir.!!!!
 
 change1
+<<<<<<< HEAD
 change2
 change3
 change4
 change5
+=======
+change2
+>>>>>>> parent of 7cd2e2d... change3 in file1
