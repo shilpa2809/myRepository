@@ -2,8 +2,8 @@ hello gir.!!!!
 
 change1
 <<<<<<< HEAD
-change2
-change3
+change  2
+change   3
 change4
 change5
 =======
