@@ -11,3 +11,4 @@ change2
 >>>>>>> parent of 7cd2e2d... change3 in file1
 
 change6
+change7
